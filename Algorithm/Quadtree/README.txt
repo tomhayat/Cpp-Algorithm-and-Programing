@@ -1,0 +1,1 @@
+QuadTree implementation for image compression.
